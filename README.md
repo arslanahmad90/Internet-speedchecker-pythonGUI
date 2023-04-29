@@ -7,9 +7,15 @@ This is python project which calculates your download speed and upload speed wit
 
 ## Anaconda 
 ```sh
-  1. conda create -n speedChecker
-  2. conda activate speedChecker
-  3. pip install speedtest-cli
+conda create -n speedChecker
+ ```
+ ```sh 
+conda activate speedChecker
+  ```
+```sh
+pip install speedtest-cli
 ```
 ## Run
-  1. python .\SpeedChecker.py
+```sh
+python .\SpeedChecker.py
+```
